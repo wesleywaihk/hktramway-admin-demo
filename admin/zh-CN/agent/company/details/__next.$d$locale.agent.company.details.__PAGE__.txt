@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
-2:I[37134,["/_next/static/chunks/947d0ef62ffc0599.js","/_next/static/chunks/b0d93a9ee9631436.js"],"ClientPageRoot"]
-3:I[39724,["/_next/static/chunks/4858d5145f4dffdf.js","/_next/static/chunks/06f50f27ae5c64b2.js","/_next/static/chunks/5abc130eb6bee013.js","/_next/static/chunks/42b102ff7ada0f5b.js","/_next/static/chunks/62c9baa01e35b648.js","/_next/static/chunks/1068c1e27dc9408e.js"],"default"]
-6:I[65126,["/_next/static/chunks/947d0ef62ffc0599.js","/_next/static/chunks/b0d93a9ee9631436.js"],"OutletBoundary"]
+2:I[37134,["/hktramway-admin-demo/_next/static/chunks/947d0ef62ffc0599.js","/hktramway-admin-demo/_next/static/chunks/b0d93a9ee9631436.js"],"ClientPageRoot"]
+3:I[39724,["/hktramway-admin-demo/_next/static/chunks/4858d5145f4dffdf.js","/hktramway-admin-demo/_next/static/chunks/06f50f27ae5c64b2.js","/hktramway-admin-demo/_next/static/chunks/5abc130eb6bee013.js","/hktramway-admin-demo/_next/static/chunks/42b102ff7ada0f5b.js","/hktramway-admin-demo/_next/static/chunks/f8421d737d4021e6.js","/hktramway-admin-demo/_next/static/chunks/1068c1e27dc9408e.js"],"default"]
+6:I[65126,["/hktramway-admin-demo/_next/static/chunks/947d0ef62ffc0599.js","/hktramway-admin-demo/_next/static/chunks/b0d93a9ee9631436.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"l91YaqqY7lBlm95cuY4Gf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{"locale":"zh-CN"},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/42b102ff7ada0f5b.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/62c9baa01e35b648.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/1068c1e27dc9408e.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"ORQHvy3-GbAHS-nr3wxQi","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{"locale":"zh-CN"},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/hktramway-admin-demo/_next/static/chunks/42b102ff7ada0f5b.js","async":true}],["$","script","script-1",{"src":"/hktramway-admin-demo/_next/static/chunks/f8421d737d4021e6.js","async":true}],["$","script","script-2",{"src":"/hktramway-admin-demo/_next/static/chunks/1068c1e27dc9408e.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
