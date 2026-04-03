@@ -24,12 +24,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Fix asset paths for GitHub Pages subpath
-        run: |
-          find admin -name "*.html" | xargs sed -i \
-            -e 's|/_next/|/hktramway-admin-demo/_next/|g' \
-            -e 's|"/favicon\.ico|"/hktramway-admin-demo/favicon.ico|g'
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
