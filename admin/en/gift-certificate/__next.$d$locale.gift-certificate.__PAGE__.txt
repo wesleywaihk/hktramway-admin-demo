@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-3:I[65126,["/hktramway-admin-demo/_next/static/chunks/947d0ef62ffc0599.js","/hktramway-admin-demo/_next/static/chunks/b0d93a9ee9631436.js"],"OutletBoundary"]
+3:I[47095,["/hktramway-admin-demo/_next/static/chunks/b0d7ef8cb4246c0c.js","/hktramway-admin-demo/_next/static/chunks/6b5757e0906825a7.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"Xyblmwqj4Tsl0-xkKDFDR","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"ugzEMLBKTbc2Z5KvaUHfF","rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
 2:E{"digest":"NEXT_REDIRECT;replace;/en/gift-certificate/activity;307;"}
